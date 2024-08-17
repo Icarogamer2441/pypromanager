@@ -1,6 +1,6 @@
 # pypromanager
 
-create your own project with python and this project manager for python
+create your own project with python or C/C++ and this project manager for python
 
 # quick start
 
